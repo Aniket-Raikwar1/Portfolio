@@ -8,6 +8,24 @@ The Superstore Analysis project focuses on uncovering key business insights usin
 
 
 # 
+### Target EDA using SQL
+
+Target is a globally renowned brand & a big retailer. The dataset case study focuses on the operations in Brazil & provide insightful information in about 1,00,000 orders placed between 2016 & 2018. The dataset offers a comprehensive view of various dimensions including the order status, price, payment & freight perfomance, customer location, product attributes & customer reviews.
+
+By analysing this extensive dataset, it becomes possible to gain valuable insights into Target operations.
+
+##### Above is just a short description of project to see project repo click on the link ➡ [Link](https://github.com/Aniket-Raikwar1/Target_Case_Study)
+
+
+# 
+### Delhivery - EDA & Data cleaning.
+
+Delhivery is the largest & fastest growing company. Aim : The company wants to understand the data coming from data pipelines so for that we will clean, sanitize & manipulate the data to get the features out of raw fields.
+ 
+##### Above is just a short description of project to see project repo click on the link ➡ [Link](https://github.com/Aniket-Raikwar1/Delhivery-EDA)
+
+
+# 
 ### Netflix data analysis - Exploratory data analysis
 
 Analyze the data and generate insight that could help Netflix in deciding which type of show / Movies to produce and how they can grow the business in different countries.
