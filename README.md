@@ -1,5 +1,13 @@
 ## Portfolio 📁
 
+### Superstore - Exploratory data analysis
+
+The Superstore Analysis project focuses on uncovering key business insights using data analytics and visualization techniques. By analyzing customer purchases, sales trends, and shipping efficiency, this project helps businesses optimize their strategies for profitability
+ 
+##### Above is just a short description of project to see project repo click on the link ➡ [Link](https://github.com/Aniket-Raikwar1/Superstore)
+
+
+# 
 ### Netflix data analysis - Exploratory data analysis
 
 Analyze the data and generate insight that could help Netflix in deciding which type of show / Movies to produce and how they can grow the business in different countries.
